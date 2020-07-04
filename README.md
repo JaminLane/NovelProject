@@ -4,4 +4,5 @@ This is my Novel project. For this project I decided to combine one of the great
 This is the code for my novel
 https://colab.research.google.com/drive/1JRvsiM7Mv-7yzSPwoFYoPP_cJph-hzkI#scrollTo=eeL78OKL5HsR
 
-When trying to transfer the pdf my computer continued to freeze and wouldnt allow me to convert the finished product into a pdf file. 
+here is my final novel:
+file:///C:/Users/lanej/Downloads/novel%20project.pdf
